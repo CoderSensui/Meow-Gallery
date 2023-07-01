@@ -12,7 +12,7 @@
 
 **Modified Version**
 
-**Example Link -** https://sensui-useless-projects.codersensui.repl.co/projects/rcg
+`Example Link` - https://sensui-useless-projects.codersensui.repl.co/projects/rcg
 
 **Changes I Made**
 
