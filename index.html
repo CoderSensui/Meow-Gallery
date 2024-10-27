@@ -348,7 +348,8 @@ body.dark-mode  .gallery .container {
       fetch('https://cataas.com/cat?json=true')
         .then(response => response.json())
         .then(data => {
-          renderImage(`https://cataas.com${data.url}`);
+          //renderImage(`https://cataas.com${data.url}`);
+          renderImage(`https://cataas.com/cat/${data._id}`)
         })
         .catch(error => {
           console.error('Error:', error);
